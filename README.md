@@ -1,67 +1,44 @@
-<div align="center">
+# Hi 👋 I'm Soumya Hugar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Soumya%20Hugar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20Computer%20Science%20Engineering%20Student&descAlignY=58"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Soumya+Hugar;💻+Python+%7C+Full-Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+Solutions+That+Make+an+Impact;🌱+Always+Learning+Something+New)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Soumya-Hugar05&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 **Final Year Computer Science Engineering Student**
-
-🏫 Cambridge Institute of Technology
-
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
-
-💻 Python | Full-Stack Development | Software Engineering
-
-🌱 Currently learning
-
-- Deep Learning
-- React
-- Flask
-- Data Structures & Algorithms
-
-🚀 Interested in
-
-- AI Applications
-- Software Development
-- Web Technologies
-- Open Source
-
-📫 **Email:** **soumyahugar350@gmail.com**
-
----
-
-# 🌐 Connect With Me
+### Final Year Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python & Full-Stack Developer | Open to Software Engineering Opportunities
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Soumya%20Hugar&fontSize=45"/>
+</p>
 
-<a href="https://www.linkedin.com/in/soumyahugar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Developer;Building+AI+Solutions;Always+Learning+New+Technologies"/>
+</p>
 
-<a href="mailto:soumyahugar350@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Soumya-Hugar05&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 👩‍💻 About Me
+
+- 🎓 Final Year Computer Science Engineering Student
+- 🏫 Cambridge Institute of Technology
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Python | Java | React | Flask | MySQL
+- 🌱 Learning Deep Learning, React & System Design
+- 🚀 Looking for Software Engineering & AI/ML Opportunities
+
+# 🌐 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/soumyahugar/
+- 📧 Email: soumyahugar350@gmail.com
+- 💻 LeetCode: https://leetcode.com/u/soumyahugar/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/soumyahufr3b
+- 🟡 HackerRank: https://www.hackerrank.com/profile/soumyahugar350
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,flask,mysql,tensorflow,opencv,git,github,vscode,linux"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,flask,mysql,tensorflow,opencv,git,github,vscode,linux"/>
 </p>
 
 ---
@@ -70,90 +47,55 @@
 
 ## 🧠 Brain Tumor MRI Detection
 
-✨ AI-powered MRI Brain Tumor Detection using
-
-- 🧠 ResNet50
-- 📊 Support Vector Machine (SVM)
-- 🔥 Grad-CAM
-- 🌐 Flask Web Application
-
-### Features
-
-✔ MRI Image Classification
-
-✔ Explainable AI
-
-✔ Real-time Prediction
-
-✔ Web-based Interface
+AI-powered Brain Tumor Detection using **ResNet50**, **SVM**, **Grad-CAM**, and **Flask** for MRI image classification.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumya-Hugar05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Soumya-Hugar05&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Soumya-Hugar05&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Soumya-Hugar05&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Hugar05&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Hugar05&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Soumya-Hugar05&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Soumya-Hugar05&theme=tokyonight&no-frame=true"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumya-Hugar05&theme=tokyo-night"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-Hugar05&theme=tokyo-night)
 
----
+# 🐍 Snake Animation
 
-# ⚡ Fun Fact
+Add GitHub Action from https://github.com/Platane/snk then use:
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/Soumya-Hugar05/Soumya-Hugar05/output/github-contribution-grid-snake.svg"/>
+</p>
+```
+
+# ☕ Fun Code
 
 ```python
 class Soumya:
-
     def __init__(self):
-        self.name = "Soumya Hugar"
-        self.role = "Software Developer"
-        self.language = ["Python", "Java", "C++"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development"
-        ]
+        self.role="Software Developer"
+        self.skills=["Python","Java","AI","ML","Flask","React"]
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! ⭐")
+    def motto(self):
+        return "Learn • Build • Innovate"
 ```
 
----
+> *"Transforming ideas into intelligent solutions through code and continuous learning."*
 
-# 💭 Quote
-
-> **"Every expert was once a beginner. Keep building, keep learning."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+</p>
