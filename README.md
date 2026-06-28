@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Soumya Hugar</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | CSE Student | Full Stack Learner</h3>
+<h3 align="center">Final Year Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python & Full-Stack Developer | Open to Software Engineering Opportunities</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Soumya+Hugar;Final+Year+Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Python+%26+Full-Stack+Developer;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year CSE Student at Cambridge Institute of Technology
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Deep Learning, Flask and React
-- 💡 Love solving real-world problems using technology
-- 🚀 Looking for Software Development & AI/ML opportunities
+- 🎓 Final Year Computer Science Engineering Student at **Cambridge Institute of Technology**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
+- 🌱 Currently learning **Deep Learning, Flask, React, and Data Structures & Algorithms**
+- 💡 Enjoy building AI-powered applications and solving real-world problems
+- 🚀 Actively seeking **Software Engineering and AI/ML opportunities**
 
 ---
 
@@ -59,8 +59,8 @@ AI-powered brain tumor detection system using **ResNet50**, **SVM**, **Grad-CAM*
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** soumyahugar350@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/soumyahugar/
+- 📧 **Email:** **soumyahugar350@gmail.com**
+- 💼 **LinkedIn:** **https://www.linkedin.com/in/soumyahugar/**
 
 ---
 
